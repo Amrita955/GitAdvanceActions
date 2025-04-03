@@ -1,4 +1,4 @@
-name: Events Demo 1
+name: PullRequest Deploy Project
 on: 
   pull_request:
     types:
