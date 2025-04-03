@@ -2,7 +2,7 @@ name: PullRequest Deploy Projects
 on: 
   pull_request:
     types:
-      - opned
+      - opened
 jobs:
   deploy:
     runs-on: ubuntu-latest
