@@ -1,4 +1,4 @@
-name: PullRequest Deploy Project
+name: PullRequest Deploy Projects
 on: 
   pull_request:
     types:
